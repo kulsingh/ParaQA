@@ -9,4 +9,15 @@ Alongside the dataset, we provide the framework for generating multiple paraphra
 The dataset is under [Attribution 4.0 International (CC BY 4.0)](LICENSE)
 
 ## Cite
-Coming Soon!
+
+The Full article can be found in [PDF](https://openreview.net/pdf?id=_GmNcCEAea3)
+You can cite article as: 
+
+@inproceedings{kacupaj2020paraqa,
+    title = "ParaQA: A Question Answering Dataset with Paraphrase Responses for Single-Turn Conversation",
+    author = "Kacupaj, Endri and Banerjee, Barshana and Singh, Kuldeep and Lehmann, Jens",
+    booktitle = "Extended Semantic Web Conference (ESWC)",
+    publisher = "Springer",
+    year="2021"
+}
+
